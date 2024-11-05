@@ -1,4 +1,7 @@
 /db.sqlite3
 /simplebot/migrations/*
+!/simplebot/migrations/gitkeep
 /bot.session
 /serveses_config.py
+/.venv
+/.idea
