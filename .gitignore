@@ -1,0 +1,4 @@
+/db.sqlite3
+/simplebot/migrations/*
+/bot.session
+/serveses_config.py
